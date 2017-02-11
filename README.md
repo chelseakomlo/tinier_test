@@ -1,4 +1,4 @@
-## Tiny test helper
+## Tiny(ier) test helper
 
 For very small C unit tests
 
